@@ -1,3 +1,7 @@
+/*
+    Developed by João Zanetti
+    https://github.com/joao-zanetti
+*/
 const functions = require('firebase-functions');
 
 const admin = require('firebase-admin');
